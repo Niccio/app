@@ -15,7 +15,7 @@
 		<!-- Corps de l'accueil-->
 			<div id="bloc_page">
 				<div id="banniere_image">
-
+  
 					<div id="banniere_description">
 						Actualités du site
 						<a href="#" class="bouton_rouge">Voir <img src="images/ico_liensexterne.png" alt="" /></a>
